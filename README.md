@@ -1,4 +1,4 @@
-# blockchain_community-homepage
+# blockchain_company-homepage
 
 ## 블럭체인 회사 홈페이지 제작, 외주(outsourcing)
 
